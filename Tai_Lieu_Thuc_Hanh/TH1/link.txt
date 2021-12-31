@@ -1,0 +1,6 @@
++ Hướng dẫn làm bài: https://youtu.be/MgrW8zeh02E
++ Hướng dẫn câu 2:
+- Cài đặt VirtualBox: https://youtu.be/JC-tXZmgXII
+- Cài đặt CentOS: https://youtu.be/BgzL3JDt2BM
++ Hướng dẫn câu 3: https://youtu.be/_lwYQBzjCyE
++ Hướng dẫn câu 4: https://youtu.be/UsOt8fqpxQw
